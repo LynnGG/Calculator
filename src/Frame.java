@@ -25,7 +25,7 @@ public class Frame implements ActionListener {
     Font font = new Font("Monaco", Font.PLAIN, 25);
 
     Frame() {
-        frame = new JFrame("Cặc");
+        frame = new JFrame("May Tinh");
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         frame.setLayout(null);
         frame.setSize(380, 550);
